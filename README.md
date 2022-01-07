@@ -34,7 +34,7 @@ I'm Assadi Halifa a french developper. I have developped my skills self-taught i
 :email: assadi.halifa@gmail.com
 
 ## Have a fun !
-<img  align="left" src="https://www.boredpanda.com/blog/wp-content/uploads/2020/12/Hey-Pandas-Post-The-Most-Satisfying-GIF-You-Know-5fe5caedbac11__605.gif" >
+<img   src="https://media0.giphy.com/media/KeQgaiv19rCEdVFnW8/giphy.gif?cid=ecf05e47ydl3jf4wkkawt0a0iu5qwcwr3be14hem84vse8vr&rid=giphy.gif&ct=g" >
 
 <!--
 **assadi-dev/assadi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
