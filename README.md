@@ -4,7 +4,13 @@ I'm Assadi Halifa a Full Stack Web Developer on javascript
 
 
 - :earth_africa: From: France.</>
-- 🕸 Interests: Web Development 💻, Technologies & multimedia 😎, Soccer ⚽, Photography 📸 and videogames 🎮.
+
+### Interest
+- Web Development 💻. 
+- Technologies & multimedia 😎.
+- Soccer ⚽. 
+- Photography 📸.
+- Videogames 🎮.
 
 
 <h4 align="left">Languages and Tools:</h4>
