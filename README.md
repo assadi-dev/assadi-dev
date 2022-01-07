@@ -26,7 +26,7 @@ I'm Assadi Halifa a Full Stack Web Developer on javascript
 ### Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://assadi-portfolio.herokuapp.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/assadi-halifa-90592a102/)
-[![Mail Badge](https://img.shields.io/badge/Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:assadi.halifa@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/Email-c0392b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:assadi.halifa@gmail.com)
 
 
 ### Contact me
