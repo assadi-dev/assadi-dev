@@ -18,7 +18,7 @@ I'm Assadi Halifa a french developper. I have developped my skills self-taught i
 <center>
   <table>
   <tr>
-      <td><img  align="left" src="https://github-readme-stats.vercel.app/api?username=assadi-dev&count_private=true&theme=gotham&show_icons=true" /></td>
+      <td width="380px" ><img  align="left" src="https://github-readme-stats.vercel.app/api?username=assadi-dev&count_private=true&theme=gotham&show_icons=true" /></td>
       <td><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assadi-dev&layout=compact&theme=gotham&langs_count=10&hide=html,css,twig,scss" /></td>
   </tr> 
   </table>
