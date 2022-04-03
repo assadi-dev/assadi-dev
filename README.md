@@ -2,12 +2,6 @@
 
 I'm Assadi Halifa a french developper. I have developped my skills self-taught in frontend and Backend software developpement,especially in javascript.I love building projects which makes learning fun and easy.
 
-- 🔭 I’m open to work .
-- 📚 I’m currently learning Java
-
-
-
-
 
 ### Interest
 - Web & software Development 💻. 
